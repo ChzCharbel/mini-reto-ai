@@ -1,0 +1,6 @@
+archivo,dimensiones,tipo,MB
+images_medseg.npy,"(100, 512, 512, 1)",float64,209.7152
+masks_medseg.npy,"(100, 512, 512, 4)",bool,104.8576
+images_radiopedia.npy,"(829, 512, 512, 1)",float64,1738.539008
+masks_radiopedia.npy,"(829, 512, 512, 4)",bool,869.269504
+test_images_medseg.npy,"(10, 512, 512, 1)",float64,20.97152
