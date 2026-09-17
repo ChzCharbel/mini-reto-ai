@@ -14,5 +14,11 @@ pulmón, segmentar tres tipos de hallazgo por píxel: **vidrio esmerilado**,
 | Archivo | Descripción |
 |---|---|
 | `etl_eda.ipynb` | Carga de datos, limpieza, análisis exploratorio y transformación final a arreglos listos para entrenamiento. |
- 
-Por ahora este es el único artefacto del repo.
+| `covid19-segmentation.ipynb` | Notebook del proyecto completo y de entrenamiento del modelo. |
+
+## Miembros del equipo
+
+- Emiliano Camacho Ponce — A01712408
+- Alfredo Alejandro Soto Herrera — A01711368
+- Facundo Bautista Barbera — A01066843
+- Charbel Isaías Chávez Zavala — A01711950
